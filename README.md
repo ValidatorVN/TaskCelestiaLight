@@ -3,7 +3,9 @@
 # Nếu bạn đang chạy bằng TMUX:
 
 B1: Quay lại Log lệnh node đang chạy
+
 B2: Control C
+
 B3: Nhập lệnh chạy node thủ công có kèm nhiệm vụ:
     
     celestia light start --core.ip https://rpc-blockspacerace.pops.one --keyring.accname my_celes_key --gateway --gateway.addr localhost --gateway.port 26659 --p2p.network blockspacerace --metrics.tls=false --metrics --metrics.endpoint otel.celestia.tools:4318
