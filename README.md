@@ -2,7 +2,9 @@
 
 # Nếu bạn đang chạy bằng TMUX:
 
-B1: Quay lại Log lệnh node đang chạy
+B1: Quay lại Log lệnh node đang chạy bằng session tmux:
+
+    tmux a -t (số session)
 
 B2: Control C
 
